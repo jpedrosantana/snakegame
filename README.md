@@ -9,6 +9,6 @@ Alguns incrementos foram feitos em relação à proposta original, como:
  - Distinção das cores da cabeça e do corpo da cobra;
  - Um sistema de pontuação informado para o usuário ao final da partida.
  
-![enter image description here](https://i.imgur.com/bweeUZa.png#center)
+![enter image description here](https://i.imgur.com/bweeUZa.png)
 
 A imagem utilizada foi retirada do Pexels e pode ser conferida [aqui](https://www.pexels.com/pt-br/foto/animal-arrepiante-assustador-balanca-53478/).
